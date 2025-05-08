@@ -46,7 +46,7 @@ This project serves as my digital identity and professional showcase. The goal i
 If you'd like to collaborate, hire me, or just say hi, feel free to reach out via the contact form on the website or connect with me:
 
 - **LinkedIn**: [Rohan Linkedin](https://www.linkedin.com/in/rohankshah3/)
-- **Email**: vercelapp105@gmail.com.com *(replace with your actual email)*
+- **Email**: vercelapp105@gmail.com *(replace with your actual email)*
 
 ---
 
